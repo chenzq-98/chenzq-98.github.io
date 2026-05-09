@@ -12,11 +12,9 @@ I am a final-year Ph.D. student in the College of Computer Science and Technolog
 
 Publications
 ======
-<sup>*</sup> denotes co-first authorship.
 
-```
 <div style="font-size: 14px;" markdown="1">
-```
+<sup>*</sup> denotes co-first authorship.
 
 **[OSDI'26] RobustRL: Role-based Fault Tolerance System for RL Post-Training.** <br>
 **Zhenqian Chen**, Baoquan Zhong, Xiang Li, Qing Dai, Xinkui Zhao, Miao Ye, Ren Cheng, Lufei Zhang, Jianwei Yin. <br>
