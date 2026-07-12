@@ -26,11 +26,11 @@ author:
   avatar           : "touxiang.jpg"
   name             : "Zhenqian Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Research Interest on AI Infra."
+  bio              : "LLM Infra engineer on RL Infra"
   location         : "China"
-  employer         : "Zhejiang University"
+  employer         : "Bytedance, Seed"
   uri              : # URL
-  email            : "chenzhenqian@zju.edu.cn" 
+  email            : "chenzq98@163.com" 
 
   # Academic websites
   academia         : # URL
