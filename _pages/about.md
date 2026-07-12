@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. student in the College of Computer Science and Technology, Zhejiang University, supervised by Prof. [Jianwei Yin](https://person.zju.edu.cn/en/0001038). My research interests lie in the fields of elastic and reliable Agentic Infrastructures, especially on the RL Infra, GPU cluster and sandbox management.
+I am an LLM Infra Engineer at Bytedance Seed, where I work on efficient and reliaable large-scale reinforcement learning training infrastructure for foundation models.
+
+I received my Ph.D. degree in the College of Computer Science and Technology, Zhejiang University, supervised by Prof. [Jianwei Yin](https://person.zju.edu.cn/en/0001038). My research interests lie in the fields of elastic and reliable Agentic Infrastructures, especially on the RL Infra, GPU cluster and sandbox management.
 
 
 Publications
@@ -51,5 +53,7 @@ Education
 
 Experience
 ======
+- ByteDance, Seed-Infra
+  - LLM Infra Engineer on RL Infra, Shanghai, China. (2026.7 - )
 - Bytedance, Seed-Infra
-  - Research Intern on RL Infra. Hangzhou & Beijing. (2025.6 - )
+  - Research Intern on RL Infra. Hangzhou & Beijing, China. (2025.6 - 2026.6)
